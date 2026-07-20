@@ -368,8 +368,4 @@
 [component_container_isolated-5] [INFO] [1784193411.926428151] [controller_server]: Cleaning up
 [component_container_isolated-5] [INFO] [1784193411.926509909] [controller_server]: Cleaning up controller: FollowPath of type nav2_rotation_shim_controller::RotationShimController
 [component_container_isolated-5] [INFO] [1784193411.942026852] [local_costmap.local_costmap]: Cleaning up
-[component_container_isolated-5] [INFO] [1784193412.034148670] [lifecycle_manager_navigation]: [34m[1mManaged nodes have been reset[0m[0m
-[component_container_isolated-5] [INFO] [1784193412.096319481] [smoother_server]: Running Nav2 LifecycleNode rcl preshutdown (smoother_server)
-[component_container_isolated-5] [INFO] [1784193412.096457877] [smoother_server]: Destroying bond (smoother_server) to lifecycle manager.
-[component_container_isolated-5] [INFO] [1784193412.096501940] [controller_server]: Running Nav2 LifecycleNode rcl preshutdown (controller_server)
-[component_container_isolated-5] [INFO] [1784193412.096540883] [controller_server]: Destroying bond (controller_server) to lifecycle manager.
+
